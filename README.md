@@ -1,2 +1,2 @@
 # flutter_app
-I will try to upload my flutter app related project here.
+This is a simple flutter project for gaming. With one click you can play dice game.
